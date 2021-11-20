@@ -2,11 +2,9 @@ import {
   axios,
   build,
   buildModules,
-  colorMode,
   css,
   head,
   helmet,
-  image,
   modules,
   pwa,
   render,
@@ -27,8 +25,6 @@ export default {
   helmet,
 
   buildModules,
-
-  colorMode,
 
   modules,
 
@@ -54,7 +50,5 @@ export default {
 
   telemetry: false,
 
-  security,
-
-  image
+  security
 };
