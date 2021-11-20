@@ -4,8 +4,6 @@
  ========================================================================================== */
 module.exports = [
   '@nuxtjs/axios',
-  '@nuxtjs/color-mode',
-  '@nuxt/image',
   'nuxt-helmet',
   '@dansmaculotte/nuxt-security'
 ];
